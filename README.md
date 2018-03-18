@@ -14,6 +14,12 @@ Temporarily, this tool doesn't need any extra module but the python standard.
 
 TODO
 
+### Running
+
+```
+python run.py
+```
+
 ## Data Structure
 
 A demo data is provided in the 'data' subfolder, which is a concatenated version of five lists coming from five build agents.
@@ -125,22 +131,6 @@ A demo data is provided in the 'data' subfolder, which is a concatenated version
     },
 }
 ```
-
-```
-Give an example
-```
-
-## Deployment
-
-TODO
-
-## Built With
-
-TODO
-
-## Contributing
-
-TODO
 
 ## Versioning
 
